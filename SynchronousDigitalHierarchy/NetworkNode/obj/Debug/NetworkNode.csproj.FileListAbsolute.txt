@@ -1,0 +1,2 @@
+c:\users\michał\documents\visual studio 2013\Projects\SynchronousDigitalHierarchy\NetworkNode\bin\Debug\NetworkNode.exe.config
+C:\Users\Michał\Documents\GitHub\tsst\SynchronousDigitalHierarchy\NetworkNode\bin\Debug\NetworkNode.exe.config
