@@ -1,0 +1,24 @@
+C:\Users\Michał\Documents\Visual Studio 2013\Projects\FinalCloud\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Michał\Documents\Visual Studio 2013\Projects\FinalCloud\ConsoleApplication5\obj\Debug\WireCloud.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Documents\Visual Studio 2013\Projects\FinalCloud\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Michał\Documents\Visual Studio 2013\Projects\FinalCloud\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Michał\Documents\Visual Studio 2013\Projects\FinalCloud\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Michał\Documents\Visual Studio 2013\Projects\FinalCloud\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Michał\Desktop\FinalCloud\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Michał\Desktop\FinalCloud\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Michał\Desktop\FinalCloud\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Michał\Desktop\FinalCloud\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Michał\Desktop\FinalCloud\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Michał\Desktop\FinalCloud\ConsoleApplication5\obj\Debug\WireCloud.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Desktop\Studia\TSST\Projekt\FinalCloud\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Michał\Desktop\Studia\TSST\Projekt\FinalCloud\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Michał\Desktop\Studia\TSST\Projekt\FinalCloud\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Michał\Desktop\Studia\TIZ 5\TSST\Projekt\FinalCloud\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Michał\Desktop\Studia\TIZ 5\TSST\Projekt\FinalCloud\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Michał\Desktop\Studia\TIZ 5\TSST\Projekt\FinalCloud\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Michał\Desktop\Studia\TIZ 5\TSST\Projekt\FinalCloud\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Michał\Desktop\Studia\TIZ 5\TSST\Projekt\FinalCloud\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Michał\Desktop\Studia\TIZ 5\TSST\Projekt\FinalCloud\ConsoleApplication5\obj\Debug\WireCloud.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Documents\GitHub\tsst\SynchronousDigitalHierarchy\FinalCloud\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Michał\Documents\GitHub\tsst\SynchronousDigitalHierarchy\FinalCloud\obj\Debug\ConsoleApplication5.exe
+C:\Users\Michał\Documents\GitHub\tsst\SynchronousDigitalHierarchy\FinalCloud\obj\Debug\ConsoleApplication5.pdb

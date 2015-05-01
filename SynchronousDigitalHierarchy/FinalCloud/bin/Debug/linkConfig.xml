@@ -1,0 +1,5 @@
+<links>
+	<basic-network-link src="111" dst="211"/>
+	<basic-network-link src="112" dst="212"/>
+	<basic-network-link src="113" dst="213"/>
+</links>
