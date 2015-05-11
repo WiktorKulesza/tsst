@@ -1,0 +1,6 @@
+D:\Projekt tsst\Tsst\tsst\SynchronousDigitalHierarchy\TransportModule1\bin\Release\TransportModule1.exe.config
+D:\Projekt tsst\Tsst\tsst\SynchronousDigitalHierarchy\TransportModule1\obj\Release\TransportModule.csprojResolveAssemblyReference.cache
+D:\Projekt tsst\Tsst\tsst\SynchronousDigitalHierarchy\TransportModule1\bin\Release\TransportModule1.exe
+D:\Projekt tsst\Tsst\tsst\SynchronousDigitalHierarchy\TransportModule1\bin\Release\TransportModule1.pdb
+D:\Projekt tsst\Tsst\tsst\SynchronousDigitalHierarchy\TransportModule1\obj\Release\TransportModule1.exe
+D:\Projekt tsst\Tsst\tsst\SynchronousDigitalHierarchy\TransportModule1\obj\Release\TransportModule1.pdb
