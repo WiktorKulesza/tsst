@@ -8,5 +8,11 @@ namespace TransportModole
 {
     class DataChannel
     {
+        private string dataChannel = "000000000";
+
+        public string GetDataChannel()
+        {
+            return dataChannel;
+        }
     }
 }

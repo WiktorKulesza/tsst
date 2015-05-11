@@ -10,9 +10,14 @@ namespace TransportModole
     {
         string aU4;
 
-        private void createAU4(VC4 vc4)
+        public void createAU4(VC4 vc4)
         {
-            aU4 = Protect.protectAU4 + vc4.GetMessageVC4();
+            aU4 = "P:["+Protect.protect + "], VC-4[" +  vc4.GetMessageVC4() + "]";
+        }
+
+        public string GetAU4()
+        {
+            return aU4;
         }
     }
 }

@@ -8,6 +8,6 @@ namespace TransportModole
 {
     class Protect
     {
-        static public string protectAU4 = "p1"; 
+        static public string protect = "p1"; 
     }
 }

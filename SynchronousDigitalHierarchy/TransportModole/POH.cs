@@ -8,5 +8,6 @@ namespace TransportModole
 {
     class POH
     {
+        public static string poh = "POHPOHPOH";
     }
 }

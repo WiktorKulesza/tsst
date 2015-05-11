@@ -1,0 +1,6 @@
+D:\Projekt tsst\Tsst\tsst\SynchronousDigitalHierarchy\NetworkNode\bin\Release\NetworkNode.exe.config
+D:\Projekt tsst\Tsst\tsst\SynchronousDigitalHierarchy\NetworkNode\bin\Release\NetworkNode.exe
+D:\Projekt tsst\Tsst\tsst\SynchronousDigitalHierarchy\NetworkNode\bin\Release\NetworkNode.pdb
+D:\Projekt tsst\Tsst\tsst\SynchronousDigitalHierarchy\NetworkNode\obj\Release\NetworkNode.csprojResolveAssemblyReference.cache
+D:\Projekt tsst\Tsst\tsst\SynchronousDigitalHierarchy\NetworkNode\obj\Release\NetworkNode.exe
+D:\Projekt tsst\Tsst\tsst\SynchronousDigitalHierarchy\NetworkNode\obj\Release\NetworkNode.pdb

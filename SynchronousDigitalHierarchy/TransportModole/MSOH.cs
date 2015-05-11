@@ -8,5 +8,16 @@ namespace TransportModole
 {
     class MSOH
     {
+        private string Msoh;
+
+        public void createMSOH(DataChannel DC)
+        {
+            Msoh = "P:[ "+ Protect.protect +"], DC:[" + DC.GetDataChannel() + "]";
+        }
+
+        public string GetMSOH()
+        {
+            return Msoh;
+        }
     }
 }

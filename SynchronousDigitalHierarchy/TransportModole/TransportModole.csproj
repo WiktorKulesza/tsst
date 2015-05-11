@@ -41,8 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="AU4.cs" />
+    <Compile Include="C4.cs" />
+    <Compile Include="DataChannel.cs" />
+    <Compile Include="MSOH.cs" />
+    <Compile Include="RSOH.cs" />
+    <Compile Include="POH.cs" />
+    <Compile Include="Protect.cs" />
+    <Compile Include="STM-1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TesterProgram.cs" />
+    <Compile Include="VC4.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
